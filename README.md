@@ -1,8 +1,7 @@
 # kafka_producer_consumer_command
 - kafka producer_consumer command
-Today Agenda
-======================================
-1) kafka producer Demo through scala code 
+
+
 
 ---------------------------------------------------------------------
 step1. start the zookeper server through below command 
